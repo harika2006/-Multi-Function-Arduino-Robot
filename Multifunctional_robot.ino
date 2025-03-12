@@ -1,4 +1,4 @@
-/*obstacle avoiding, Bluetooth control, voice control robot car.
+/*obstacle avoiding, Bluetooth control, voice control robot car
    Home Page
 */
 #include <Servo.h>
